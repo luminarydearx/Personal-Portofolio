@@ -15,6 +15,12 @@ const testimonials = [
     author: "Hotna Tiar Simarmata",
     role: "Pelajar Jurusan Akuntansi",
     avatar: "/profile/hotna.jpg",
+  },
+  {
+    quote: "Dearly adalah teman saya dia orang nya baik suka bantu saya kalau nggak bisa dalam hal cooding,dia jugaaa ramahhh orangnya , dearly juga orangnya  kalau di ajak ngomong enak bisa nyambung nggak baperan ,paling saya suka dari dearly adalah dia selalu walcome,dia ikhlas ngebantu tanpa berharap imbalan apapun",
+    author: "Alif Ferdi Pratama",
+    role: "Pelajar Jurusan Teknik Jaringan dan Komputer (SMK Brawijaya Malang)",
+    avatar: "https://fluffy-torrone-79b534.netlify.app/3.jpeg",
   }
 ];
 

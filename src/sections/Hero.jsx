@@ -37,6 +37,8 @@ const skills = [
   "Vercel",
   "Tailwind CSS",
   "Git",
+  "Flask",
+  "FastAPI",
   "GitHub Actions",
 ];
 

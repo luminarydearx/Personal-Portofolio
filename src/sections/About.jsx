@@ -56,9 +56,10 @@ export const About = () => {
                 menjadi keahlian mendalam dalam teknologi fullstack modern.
               </p>
               <p>
-                Saya berspesialisasi dalam React, Next.js, Java, JavaScript,
-                Spring dan TypeScript, membangun segala hal mulai dari landing
-                page yang elegan hingga aplikasi perusahaan yang kompleks.
+                Saya berspesialisasi dalam React, Next.js, Java, Python, JavaScript,
+                dan TypeScript, membangun segala hal mulai dari landing
+                page yang elegan, database relasional hingga aplikasi
+                perusahaan yang kompleks. 
                 Pendekatan saya menggabungkan keunggulan teknis dengan perhatian
                 yang tajam terhadap desain, struktur data, dan pengalaman
                 pengguna.
@@ -74,8 +75,7 @@ export const About = () => {
             <div className="glass rounded-2xl p-6 glow-border animate-fade-in animation-delay-300">
               <p className="text-lg font-medium italic text-foreground">
                 "Misi saya adalah menciptakan pengalaman digital yang tidak
-                hanya fungsional, tetapi benar-benar menyenangkan — produk yang
-                disukai pengguna dan disukai pengembang untuk dipelihara."
+                hanya fungsional, tetapi benar-benar menyenangkan bagi para pengguna dan juga nyaman bagi para pengembang."
               </p>
             </div>
           </div>
